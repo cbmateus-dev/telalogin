@@ -1,0 +1,17 @@
+  .container2{
+    display: flex;
+    background-color: #F8F8F8;
+    width: 60%;
+    
+  }
+
+  .container2 img {
+    position: static;
+    margin-top: 100px;
+    width: 100vw;
+    height: 70vh;
+    margin-left: -300px;
+    
+  }
+  
+  
