@@ -7,11 +7,9 @@ O projeto consiste na criação de uma tela simples de login fazendo manipulaç�
 
 # Technologies
 - ReactJs in function
-- React Router DOM
-- Axios
+
 
 #
-
 
 
 
