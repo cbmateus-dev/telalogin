@@ -20,12 +20,15 @@ Requirements
 
 *Clone the project and access the folder*
 
-bash
+```bash
 git clone https://github.com/cbmateus-dev/telalogin.git
+```
 
 &&
+```
 bash
 cd telalogin
+```
 
 
 *Follow the steps below*
@@ -38,3 +41,4 @@ $ npm install or yarn install
 $ npm start or yarn start
 
 # Well done, project is started!
+```
